@@ -7,3 +7,23 @@ body {
     background-color: rgb(244, 231, 255);
     border: 1px blueviolet solid;
 }
+
+.my-navbar-color{
+    background-color: aquamarine !important;
+}
+
+.my-button-color{
+    color: white;
+    background-color: blue;
+}
+
+.my-button-color:hover{
+    color: white;
+    background-color: darkblue ;
+}
+
+.my-title{
+    color: blue;
+    font-size: 6em !important;
+}
+
